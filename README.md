@@ -1,10 +1,10 @@
 # AIMARK: AI-Attribution Markdown Standard Proposal
 
-A draft proposal for in-line attribution of AI and human contributions within hybrid AI-assisted texts based on markdown
+*A draft proposal for in-line attribution of AI and human contributions within hybrid AI-assisted texts based on markdown*
 
 ### AI Disclosure & Attribution
 
-The majority of this document was compiled from ChatGPT replies, with light human edits.
+*The majority of this document was compiled from ChatGPT replies, with light human edits.*
 
 ## Problem Statement
 
