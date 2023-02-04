@@ -52,7 +52,7 @@ Under this proposed system, it would be possible to also embed global author def
 
 By using this proposed custom markdown formatting, it will be easier for readers to understand the contributions made by both human and AI authors in AI-assisted texts in compatible display environments.
 
-## Longer text blocks
+## Longer Text Blocks
 
 In addition to the short format versions discussed earlier, AIMark also proposes a longer format version that uses square brackets `[ ]` in combination with the `/` or `%` signs to indicate AI-generated text and human-generated text respectively.
 
@@ -74,4 +74,4 @@ In conclusion, AI attribution is a valuable practice because it helps to promote
 
 ## Request for Comments
 
-We welcome comments, questions, and proposed improvements to the above. Thanks for reading. 
+We are not technical experts by any means, and welcome comments, questions, and proposed improvements to the above. Thanks for reading. 
